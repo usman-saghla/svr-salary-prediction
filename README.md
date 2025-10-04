@@ -1,4 +1,3 @@
-readme = """
 # SVR Salary Prediction
 
 This project demonstrates how to use **Support Vector Regression (SVR)** with feature scaling to predict salaries based on job position levels. The dataset provided (`Position_Salaries.csv`) is a small toy dataset with 10 observations, often used for learning SVR in machine learning courses.

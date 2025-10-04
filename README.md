@@ -5,9 +5,9 @@ This project demonstrates how to use **Support Vector Regression (SVR)** with fe
 ---
 
 ## 📂 Project Structure
-├── Position_Salaries.csv # Dataset
-├── support_vector_regression.ipynb # Jupyter notebook with step-by-step code
-└── README.md # Project documentation
+Position_Salaries.csv # Dataset
+support_vector_regression.ipynb # Jupyter notebook with step-by-step code
+README.md # Project documentation
 
 
 ---
